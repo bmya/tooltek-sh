@@ -2,3 +2,8 @@
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
 	branch = 15.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 15.0
