@@ -1,7 +1,17 @@
+
+[submodule "bmya/odoo-bmya"]
+	path = bmya/odoo-bmya
+	url = git@github.com:bmya/odoo-bmya.git
+	branch = 15.0_dev
+
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
 	branch = 15.0
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
