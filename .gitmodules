@@ -9,10 +9,6 @@
 	url = git@github.com:bmya/bmya-enterprise.git
 	branch = 15.0
 
-[submodule "OCA/credit-control"]
-	path = OCA/credit-control
-	url = git@github.com:OCA/credit-control.git
-
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
