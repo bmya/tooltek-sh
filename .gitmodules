@@ -22,3 +22,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 15.0
+
+[submodule "bmya/sale"]
+	path = bmya/sale
+	url = git@github.com:bmya/sale.git
+	branch = 15.0
