@@ -23,3 +23,7 @@
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 15.0
 
+[submodule "bmya/adhoc-sale"]
+	path = bmya/adhoc-sale
+	url = git@github.com:bmya/sale.git
+	branch = 15.0-remove-instal-false
