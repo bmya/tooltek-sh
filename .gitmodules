@@ -27,3 +27,7 @@
 	path = bmya/adhoc-sale
 	url = git@github.com:bmya/sale.git
 	branch = 15.0-remove-instal-false
+[submodule "bmya/account-payment"]
+	path = bmya/account-payment
+	url = git@github.com:bmya/account-payment.git
+	branch = 15.0
