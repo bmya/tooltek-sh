@@ -7,7 +7,7 @@
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
-	branch = 15.0
+	branch = 15.0-fix-fetchmail
 
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
