@@ -1,0 +1,4 @@
+[submodule "bmya/mail-addons"]
+	path = bmya/mail-addons
+	url = git@github.com:bmya/mail-addons.git
+	branch = 11.0
