@@ -17,3 +17,7 @@
 	path = bmya/account-payment
 	url = git@github.com:bmya/account-payment.git
 	branch = 15.0
+[submodule "bmya/credit-control"]
+	path = bmya/credit-control
+	url = git@github.com:bmya/credit-control.git
+	branch = 15.0
