@@ -1,0 +1,10 @@
+<record id="view_partner_form_crm_visit" model="ir.ui.view">
+    <field name="name">res.partner.form.crm.visit</field>
+    <field name="model">res.partner</field>
+    <field name="inherit_id" ref="base.view_partner_form"/>
+    <field name="arch" type="xml">
+        <xpath expr="//header/button[@name='view_sales_orders']" position="after">
+            <button name="action_view_related_visits" string="Visitas" type="action" class="oe_highlight"/>
+        </xpath>
+    </field>
+</record>

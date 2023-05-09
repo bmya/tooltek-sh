@@ -1,0 +1,23 @@
+<odoo>
+    <data>
+        <record id="crm_partner_view_form_inherit" model="ir.ui.view">
+            <field name="name">crm.partner.form.inherit</field>
+            <field name="model">res.partner</field>
+            <field name="inherit_id" ref="base.view_partner_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//div[@name='otherpane']" position="after">
+                    <div class="oe_button_box" name="visit_pane">
+                        <field name="visit_count" widget="statinfo" string="Visitas"/>
+                        <button class="oe_stat_button oe_inline"
+                                type="action"
+                                name="action_partner_visits"
+                                icon="fa-eye"
+                                attrs="{'invisible': [('visit_count', '=', 0)]}">
+                            <field name="visit_count"/>
+                        </button>
+                    </div>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>
