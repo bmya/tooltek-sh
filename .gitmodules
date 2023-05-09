@@ -2,13 +2,11 @@
 [submodule "bmya/odoo-bmya"]
 	path = bmya/odoo-bmya
 	url = git@github.com:bmya/odoo-bmya.git
-	branch = 15.0_dev
-
+	branch = 15.0
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
-	branch = 15.0-fix-fetchmail
-
+	branch = 15.0
 [submodule "OCA/account-financial-tools"]
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
