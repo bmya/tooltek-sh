@@ -9,21 +9,21 @@
 	branch = 17.0
 
 [submodule "OCA/account-financial-tools"]
-	path = OCA/account-financial-tools
+	path = oca/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 17.0
 
 [submodule "bmya/account-payment"]
-	path = bmya/account-payment
+	path = ingadhoc/account-payment
 	url = git@github.com:bmya/account-payment.git
 	branch = 17.0
 
 [submodule "bmya/credit-control"]
-	path = bmya/credit-control
+	path = oca/credit-control
 	url = git@github.com:bmya/credit-control.git
 	branch = 17.0
 
 [submodule "OCA/sale-workflow"]
-	path = OCA/sale-workflow
+	path = oca/sale-workflow
 	url = git@github.com:bmya/sale-workflow.git
 	branch = 17.0
