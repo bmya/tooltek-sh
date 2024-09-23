@@ -31,3 +31,7 @@
 	path = bmya/bmya-tools
 	url = git@github.com:bmya/bmya-tools.git
 	branch = 17.0
+[submodule "bmya/bmya-enterprise-release"]
+	path = bmya/bmya-enterprise-release
+	url = git@github.com:bmya/bmya-enterprise-release.git
+	branch = 17.0
