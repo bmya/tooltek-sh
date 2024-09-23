@@ -27,3 +27,7 @@
 	path = oca/sale-workflow
 	url = git@github.com:bmya/sale-workflow.git
 	branch = 17.0
+[submodule "bmya/bmya-tools"]
+	path = bmya/bmya-tools
+	url = git@github.com:bmya/bmya-tools.git
+	branch = 17.0
