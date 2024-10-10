@@ -8,17 +8,12 @@
 	url = git@github.com:bmya/bmya-enterprise.git
 	branch = 17.0-dev
 
-[submodule "OCA/account-financial-tools"]
-	path = oca/account-financial-tools
-	url = git@github.com:OCA/account-financial-tools.git
-	branch = 17.0
-
-[submodule "bmya/credit-control"]
+[submodule "oca/credit-control"]
 	path = oca/credit-control
 	url = git@github.com:bmya/credit-control.git
 	branch = 17.0
 
-[submodule "OCA/sale-workflow"]
+[submodule "oca/sale-workflow"]
 	path = oca/sale-workflow
 	url = git@github.com:bmya/sale-workflow.git
 	branch = 17.0
