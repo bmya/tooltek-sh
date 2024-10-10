@@ -6,7 +6,7 @@
 [submodule "bmya/bmya-enterprise"]
 	path = bmya/bmya-enterprise
 	url = git@github.com:bmya/bmya-enterprise.git
-	branch = 17.0
+	branch = 17.0-dev
 
 [submodule "OCA/account-financial-tools"]
 	path = oca/account-financial-tools
