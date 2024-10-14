@@ -25,3 +25,7 @@
 	path = bmya/bmya-enterprise-release
 	url = git@github.com:bmya/bmya-enterprise-release.git
 	branch = 17.0
+[submodule "bmya/update-odoo"]
+	path = bmya/update-odoo
+	url = git@github.com:bmya/update-odoo.git
+	branch = 17.0
